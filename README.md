@@ -1,5 +1,5 @@
 # About me
-Just a autistic nerd who cared about privacy long before it became mainstream.
+Just an autistic nerd who cared about privacy long before it became mainstream.
 I care about animals, AI evolution and helping others stay safe online. If you need help you need only ask.
 
 If you decide to OSINT me and find anything juicy (or found this profile through misadventures) feel free to let me know.
