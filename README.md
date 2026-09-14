@@ -4,7 +4,7 @@ I care about animals, AI evolution and helping others stay safe online. If you n
 
 If you decide to OSINT me and find anything juicy (or found this profile through misadventures) feel free to let me know.
 
-You can contact me by simply mentioning me in an issue or finding my email somewhere.
+You can contact me by simply mentioning me in an issue [or finding my email somewhere.](no_protocol://try_######@proton_me)
 
 
 # PGP Keys
